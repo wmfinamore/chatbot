@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 jupyterlab = "*"
 nltk = "*"
+bs4 = "*"
+numpy = "*"
+spacy = "*"
 
 [requires]
 python_version = "3.1"
